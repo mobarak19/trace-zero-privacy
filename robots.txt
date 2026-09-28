@@ -1,0 +1,8 @@
+# Note: on a GitHub Pages project site, crawlers only read robots.txt from
+# the domain root (mobarak19.github.io/robots.txt). This file takes effect
+# once the site moves to its own custom domain. Until then, submit
+# sitemap.xml in Google Search Console and Bing Webmaster Tools.
+User-agent: *
+Allow: /
+
+Sitemap: https://mobarak19.github.io/trace-zero-privacy/sitemap.xml
